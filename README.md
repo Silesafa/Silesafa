@@ -2,7 +2,7 @@
  
 I'm a Computer Engineering student interested in software development, problem solving, and building practical applications.
  
-My professional experience as a CAD Designer has helped me develop analytical, technical design, documentation, and problem-solving skills that I am now combining with software development.
+My professional experience as a Specialist CAD Designer has helped me develop analytical, technical design, documentation, and problem-solving skills that I am now combining with software development.
  
 ## 💻 Technologies
  
