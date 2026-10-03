@@ -1,69 +1,94 @@
-# Hi, I'm Andrés 👋
+
+
  
-I'm a Computer Engineering student interested in software development, problem solving, and building practical applications.
+# Hi, I'm Andrés Céspedes 👋
  
-My professional experience as a Specialist CAD Designer has helped me develop analytical, technical design, documentation, and problem-solving skills that I am now combining with software development.
+🎓 Computer Engineering Student passionate about software development, problem solving, and building practical applications.
  
-## 💻 Technologies
+I am currently developing skills in software engineering, object-oriented programming, and application development using C#, Java, and Python.
  
-- Java
+My professional background as a CAD Design Specialist has strengthened my analytical thinking, technical documentation, attention to detail, and problem-solving abilities. Today, I combine those strengths with software development to create efficient and reliable solutions.
+ 
+---
+ 
+## 💻 Technologies & Tools
+ 
+### Programming Languages
 - C#
+- C++
+- Java
 - Python
 - HTML
+ 
+### Tools & Platforms
 - Git & GitHub
-- NetBeans
 - Visual Studio
+- NetBeans
+- SQL Server (Learning)
+- ASP.NET Core (Learning)
+ 
+---
  
 ## 🚀 Featured Projects
  
 ### 🏃 Player Fitness Management System
  
-Java console application for managing player fitness data, training recommendations, and individual and team reports.
+Java console application designed to manage player fitness information, generate training recommendations, and provide individual and team performance reports.
  
-**Technologies:** Java • OOP • ArrayList • Exception Handling
+**Technologies:** Java • Object-Oriented Programming • ArrayList • Exception Handling
  
-🔗 https://github.com/Silesafa/player-fitness-management-system
+🔗 Repository: https://github.com/Silesafa/player-fitness-management-system
  
 ---
  
 ### ⚔️ Mystic Creatures Client-Server Game
  
-C# client-server battle game where players connect to a TCP server, authenticate, manage creatures, participate in battles, and consult battle history.
+Client-server application developed in C# where players connect to a TCP server, authenticate, manage creatures, participate in battles, and review battle history.
  
 **Technologies:** C# • .NET • TCP/IP • Windows Forms • JSON • Multithreading
  
-🔧 Repository currently being reorganized and documented.
+🔧 Repository currently being improved, documented, and prepared for portfolio presentation.
  
 ---
  
 ### 🐍 Rock Paper Scissors
  
-Console implementation of the classic Rock Paper Scissors game where the player competes against the computer.
+Python console application implementing the classic Rock-Paper-Scissors game against the computer.
  
-**Technologies:** Python • Functions • Loops • Conditionals • Random
+**Technologies:** Python • Functions • Loops • Conditional Logic • Random Module
  
-🔗 https://github.com/Silesafa/rock-paper-scissors-python
- 
-## 📚 Currently Learning
- 
-- CSS
-- JavaScript
-- Git & GitHub best practices
-- Data Structures and Algorithms
-- Software Development best practices
- 
-## 🎯 Current Goals
- 
-- Build my professional developer portfolio
-- Improve my Java and C# skills
-- Learn front-end development with HTML, CSS, and JavaScript
-- Build more complete software projects
-- Improve and document my existing projects
- 
-## 📫 Contact
- 
-- GitHub: [Silesafa](https://github.com/Silesafa)
+🔗 Repository: https://github.com/Silesafa/Juego_piedra_papel_tijera
  
 ---
  
-Thanks for visiting my profile! 👋
+## 📚 Currently Learning
+ 
+- ASP.NET Core
+- CSS
+- JavaScript
+- Entity Framework Core
+- SQL Server
+- Git & GitHub Best Practices
+- Data Structures and Algorithms
+ 
+---
+ 
+## 🎯 Career Goals
+ 
+- Build a strong software development portfolio
+- Develop professional applications using C# and .NET
+- Strengthen my backend development skills
+- Learn modern web development technologies
+- Contribute to open-source projects
+- Apply software engineering best practices
+ 
+---
+ 
+## 📫 Connect With Me
+ 
+- GitHub: https://github.com/Silesafa
+- LinkedIn: www.linkedin.com/in/andrescespedess
+ 
+---
+ 
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and follow my progress as I continue growing as a software developer.
