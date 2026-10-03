@@ -81,14 +81,43 @@ Python console application implementing the classic Rock-Paper-Scissors game aga
 - Learn modern web development technologies
 - Contribute to open-source projects
 - Apply software engineering best practices
+  
+---
+## 🏆 Certifications & Digital Badges
  
+### Cisco Networking Academy
+ 
+🔹 Data Analytics Essentials
+📎 Credential: https://www.credly.com/earner/earned/share/7b244c2c-4a02-41de-a34d-561dc3dc54ae
+ 
+🔹 Introduction to Data Science
+📎 Credential: https://www.credly.com/earner/earned/share/585ed45d-150d-4f03-a1e6-5a5233226dfa
+ 
+🔹 Ethical Hacker
+📎 Credential: https://www.credly.com/earner/earned/share/f2ab667c-eddc-422e-b546-7a67d5c8b369
+ 
+🔹 Python Essentials 1
+📎 Credential: https://www.credly.com/earner/earned/share/f4a527cf-6449-49d2-9816-783ecb2969e2
+ 
+🔹 Python Essentials 2
+📎 Credential: https://www.credly.com/earner/earned/share/d19b3f2f-04ff-4076-944e-a03b7ee72e4c
+ 
+🔹 Networking Academy Learn-A-Thon 2025
+📎 Credential: https://www.credly.com/earner/earned/share/12159dac-0865-4efa-8def-357459f6d1fb
+ 
+🔹 Networking Academy Learn-A-Thon 2026
+📎 Credential: https://www.credly.com/earner/earned/share/e11be7d5-7e8e-4f1a-9186-143ab7411ccb
+ 
+### ISC2
+ 
+🔹 ISC2 Candidate
+📎 Credential: https://www.credly.com/earner/earned/share/5b05663b-ddeb-4564-845f-b201301da2e8
+
 ---
  
 ## 📫 Connect With Me
  
 - GitHub: https://github.com/Silesafa
 - LinkedIn: www.linkedin.com/in/andrescespedess
- 
----
  
 ⭐ Thank you for visiting my profile. Feel free to explore my repositories and follow my progress as I continue growing as a software developer.
