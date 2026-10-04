@@ -24,8 +24,8 @@ My professional background as a CAD Design Specialist has strengthened my analyt
 - Git & GitHub
 - Visual Studio
 - NetBeans
-- SQL Server (Learning)
-- ASP.NET Core (Learning)
+- SQL Server 
+- ASP.NET Core 
  
 ---
  
