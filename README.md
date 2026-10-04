@@ -30,16 +30,7 @@ My professional background as a CAD Design Specialist has strengthened my analyt
 ---
  
 ## 🚀 Featured Projects
- 
-### 🏃 Player Fitness Management System
- 
-Java console application designed to manage player fitness information, generate training recommendations, and provide individual and team performance reports.
- 
-**Technologies:** Java • Object-Oriented Programming • ArrayList • Exception Handling
- 
-🔗 Repository: https://github.com/Silesafa/player-fitness-management-system
- 
----
+
  
 ### ⚔️ Mystic Creatures Client-Server Game
  
@@ -50,6 +41,17 @@ A multi-client TCP/IP game application built on a C# (.NET Windows Forms) Client
 🔧 Repository: https://github.com/Silesafa/Mystic-Creatures-Client-Server-Game.git
  
 ---
+ 
+### 🏃 Player Fitness Management System
+ 
+Java console application designed to manage player fitness information, generate training recommendations, and provide individual and team performance reports.
+ 
+**Technologies:** Java • Object-Oriented Programming • ArrayList • Exception Handling
+ 
+🔗 Repository: https://github.com/Silesafa/player-fitness-management-system
+ 
+---
+
  
 ### 🐍 Rock Paper Scissors
  
