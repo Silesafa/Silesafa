@@ -43,11 +43,11 @@ Java console application designed to manage player fitness information, generate
  
 ### ⚔️ Mystic Creatures Client-Server Game
  
-Client-server application developed in C# where players connect to a TCP server, authenticate, manage creatures, participate in battles, and review battle history.
+A multi-client TCP/IP game application built on a C# (.NET Windows Forms) Client/Server architecture with SQL Server data persistence.   The system features centralized server administration and real-time socket communication for acquiring creatures, building custom battle teams, and conducting turn-based battles between players.
  
-**Technologies:** C# • .NET • TCP/IP • Windows Forms • JSON • Multithreading
+**Technologies:** C# • .NET • TCP/IP • Windows Forms • JSON • Multithreading • SQL
  
-🔧 Repository currently being improved, documented, and prepared for portfolio presentation.
+🔧 Repository: https://github.com/Silesafa/Mystic-Creatures-Client-Server-Game.git
  
 ---
  
@@ -59,6 +59,23 @@ Python console application implementing the classic Rock-Paper-Scissors game aga
  
 🔗 Repository: https://github.com/Silesafa/Juego_piedra_papel_tijera
  
+---
+
+### Pharmacy-Prescription-Management-System
+
+A C++ console application for managing pharmacy product catalogs, associative keyword validation for medical instructions, and prescription processing with flat-file persistence.
+
+🔧 Repository: https://github.com/Silesafa/Pharmacy-Prescription-Management-System.git
+
+---
+
+### Sistema-de-Gesti-n-Hotelera 
+
+The solution evolves the architecture into a decoupled model utilizing an **independent RESTful Web API** for business logic and in-memory storage, consumed by an **ASP.NET Core MVC** web client.
+
+
+🔧 Repository: https://github.com/Silesafa/Sistema-de-Gesti-n-Hotelera.git
+
 ---
  
 ## 📚 Currently Learning
